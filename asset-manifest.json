@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/behold-bohol/static/css/main.65e4fd35.css",
+    "main.js": "/behold-bohol/static/js/main.5cf8f730.js",
+    "static/js/787.4b61fd93.chunk.js": "/behold-bohol/static/js/787.4b61fd93.chunk.js",
+    "static/media/featuredvideo.mp4": "/behold-bohol/static/media/featuredvideo.7440c198fc9eb6b4d679.mp4",
+    "static/media/balicasag.jpg": "/behold-bohol/static/media/balicasag.e24a4b97c3ea6e48400d.jpg",
+    "static/media/10.jpg": "/behold-bohol/static/media/10.4790c26a16a1358f4e0f.jpg",
+    "static/media/7.jpg": "/behold-bohol/static/media/7.634aaae3ff96b7aad709.jpg",
+    "static/media/9.jpg": "/behold-bohol/static/media/9.5fce5559f7a996c61f54.jpg",
+    "static/media/manmade.png": "/behold-bohol/static/media/manmade.50b8c2152a5561b2b131.png",
+    "static/media/lobocriver.png": "/behold-bohol/static/media/lobocriver.2927a756ec4d99d3a505.png",
+    "static/media/8.jpg": "/behold-bohol/static/media/8.c63b16ff2a966615a3ec.jpg",
+    "static/media/bohollywood.png": "/behold-bohol/static/media/bohollywood.fa23f7e1fb86c80c16c9.png",
+    "static/media/baclayonchurch.png": "/behold-bohol/static/media/baclayonchurch.5b75f9a12e6a455ae664.png",
+    "static/media/chocolatehills.png": "/behold-bohol/static/media/chocolatehills.8ebe24ceae5901680553.png",
+    "static/media/6.jpg": "/behold-bohol/static/media/6.31a545480fe7b63fb91d.jpg",
+    "static/media/bohollywood.jpeg": "/behold-bohol/static/media/bohollywood.38569f9e4ba622715790.jpeg",
+    "static/media/baclayon1.jpg": "/behold-bohol/static/media/baclayon1.9f89477d093ca6c7c8ce.jpg",
+    "static/media/alonabeach.png": "/behold-bohol/static/media/alonabeach.97b05a9638b83164bdc1.png",
+    "static/media/alona.jpg": "/behold-bohol/static/media/alona.113368a3e3036cb48deb.jpg",
+    "static/media/baclayon3.jpg": "/behold-bohol/static/media/baclayon3.1b347ec8f975dce50ca0.jpg",
+    "index.html": "/behold-bohol/index.html",
+    "main.65e4fd35.css.map": "/behold-bohol/static/css/main.65e4fd35.css.map",
+    "main.5cf8f730.js.map": "/behold-bohol/static/js/main.5cf8f730.js.map",
+    "787.4b61fd93.chunk.js.map": "/behold-bohol/static/js/787.4b61fd93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65e4fd35.css",
+    "static/js/main.5cf8f730.js"
+  ]
+}
